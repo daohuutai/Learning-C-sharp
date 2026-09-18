@@ -7,9 +7,9 @@ using System;
 
 namespace NMLT.Buoi2
 {
-    class TongDoan
+    public class TongDoan
     {
-        static void Main()
+        public static void ChayBaiTap()
         {
             Console.Write("Nhap so a: ");
             long a = long.Parse(Console.ReadLine());

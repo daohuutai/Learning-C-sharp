@@ -1,10 +1,10 @@
 using System;
 
-namespace NMLT.Buoi03
+namespace NMLT.Buoi3
 {
     class GiaTriHamSo1
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             double x, f1, f2;
 

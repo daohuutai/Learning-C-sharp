@@ -1,10 +1,10 @@
 using System;
 
-namespace NMLT.Buoi03
+namespace NMLT.Buoi3
 {
     class ChuSoLonNhat
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             int n;
             int c1, c2, c3, c4;

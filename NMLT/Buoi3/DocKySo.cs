@@ -4,7 +4,7 @@ namespace NMLT.Buoi03
 {
     class DocKySo
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             int n;
             int c1, c2, c3, c4;

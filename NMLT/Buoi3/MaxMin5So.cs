@@ -1,10 +1,10 @@
 using System;
 
-namespace NMLT.Buoi03
+namespace NMLT.Buoi3
 {
     class MaxMin5So
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             int a, b, c, d, e;
             int vmax, vmin;

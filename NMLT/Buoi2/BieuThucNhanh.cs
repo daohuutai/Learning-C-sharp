@@ -8,9 +8,9 @@ using System;
 
 namespace NMLT.Buoi2
 {
-    class BieuThucNhanh
+    public class BieuThucNhanh
     {
-        static void Main()
+        public static void ChayBaiTap()
         {
             double x ; 
             Console.Write("Moi nhap so thuc x: ");

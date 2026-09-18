@@ -8,9 +8,9 @@ using System;
 
 namespace NMLT.Buoi1
 {
-    class HinhTron
+    public class HinhTron
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             double R; // Nên dùng double để bán kính có thể nhập số thực
             double S, P;

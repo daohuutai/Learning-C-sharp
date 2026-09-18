@@ -8,9 +8,9 @@ using System;
 
 namespace NMLT.Buoi1
 {
-    class DienTichTamGiac
+    public class DienTichTamGiac
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             double a, b, c, p, s;
 

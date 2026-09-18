@@ -4,9 +4,9 @@ using System;
 
 namespace NMLT.Buoi2
 {
-    class LuyThuaNhanh
+    public class LuyThuaNhanh
     {
-        static void Main()
+        public static void ChayBaiTap()
         {
             double a = 2.0;
             double a2 = a*a;

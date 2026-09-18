@@ -1,10 +1,10 @@
 using System;
 
-namespace NMLT.Buoi03
+namespace NMLT.Buoi3
 {
     class ThuTuNgayNam
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             int ngay, thang, nam;
             int soNgayCach = 0;

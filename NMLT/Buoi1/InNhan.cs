@@ -11,9 +11,9 @@ using System;
 
 namespace NMLT.Buoi1
 {
-    class in_nhan
+    public class InNhan
     {
-        public static void Main(string[] args)
+        public static void ChayBaiTap()
         {
             Console.WriteLine("**************************"); 
             Console.WriteLine("* Truong: Dai Hoc HUFLIT *");
