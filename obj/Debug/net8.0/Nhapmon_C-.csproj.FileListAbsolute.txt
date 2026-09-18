@@ -13,3 +13,18 @@ c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\refint\Nhapmon_C-
 c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.pdb
 c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.genruntimeconfig.cache
 c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\ref\Nhapmon_C-.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\bin\Debug\net8.0\Nhapmon_C-.exe
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\bin\Debug\net8.0\Nhapmon_C-.deps.json
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\bin\Debug\net8.0\Nhapmon_C-.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\bin\Debug\net8.0\Nhapmon_C-.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\bin\Debug\net8.0\Nhapmon_C-.pdb
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.sourcelink.json
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\refint\Nhapmon_C-.dll
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.pdb
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\Nhapmon_C-.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\Nhapmon_C-\obj\Debug\net8.0\ref\Nhapmon_C-.dll
