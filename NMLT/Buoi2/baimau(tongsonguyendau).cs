@@ -3,7 +3,7 @@ namespace NMLT.Buoi2
 {
 public class TongSoNguyenDau
 {
-public static void Main(string []args)
+public static void ChayBaiTap()
 {
 // Khai báo biến
 int n, tong;

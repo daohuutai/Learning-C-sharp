@@ -7,7 +7,7 @@ namespace NMLT.Buoi1
     class InChuoi
     {
         // Phương thức điểm vào chương trình
-        public static void Main(string []args)  
+        public static void ChayBaiTap()  
         {
             // Xuất dữ liệu
             Console.WriteLine("Whoever is happy will make others happy too");

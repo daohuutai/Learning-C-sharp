@@ -3,7 +3,7 @@ namespace NMLT.Buoi01
 {
 class BieuThuc
 {
-public static void Main(string []args)
+public static void ChayBaiTap()
 {
 // Khai báo biến
 int a, b;
