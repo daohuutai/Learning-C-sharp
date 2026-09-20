@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\Nhapmon_C-.csproj": {}
+    "c:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\NMLT\\Nhapmon_C-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\Nhapmon_C-.csproj": {
+    "c:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\NMLT\\Nhapmon_C-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\Nhapmon_C-.csproj",
+        "projectUniqueName": "c:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\NMLT\\Nhapmon_C-.csproj",
         "projectName": "Nhapmon_C-",
-        "projectPath": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\Nhapmon_C-.csproj",
+        "projectPath": "c:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\NMLT\\Nhapmon_C-.csproj",
         "packagesPath": "C:\\Users\\ASUS TUF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\obj\\",
+        "outputPath": "c:\\Users\\ASUS TUF\\Documents\\GitHub\\Nhapmon_C-\\NMLT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
