@@ -1,5 +1,6 @@
 using System;
 using Lab02ThucHanh.ThucHanh1;
+using Lab02ThucHanh.ThucHanh2;
 
 namespace Lab02ThucHanh
 {
