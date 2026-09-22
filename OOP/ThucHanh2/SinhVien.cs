@@ -3,7 +3,8 @@ using System;
 namespace Lab02ThucHanh.ThucHanh2
 {
     // Bai 1.1: Lop SinhVien - Field, Constructor, Property, Method
-    public class SinhVien
+    // Implement IComparable de dung cho Bai 3.1 (Array.Sort) va Bai 3.2 (sap xep bang interface)
+    public class SinhVien : IComparable<SinhVien>
     {
         // Field
         private string hoTen;
@@ -55,6 +56,13 @@ namespace Lab02ThucHanh.ThucHanh2
         public void Xuat()
         {
             Console.WriteLine($"Ho ten: {hoTen}, Nam sinh: {namSinh}, Tuoi: {TinhTuoi()}");
+        }
+
+        // CompareTo: sap xep theo ho ten (tang dan)
+        public int CompareTo(SinhVien? other)
+        {
+            if (other == null) return 1;
+            return string.Compare(hoTen, other.hoTen, StringComparison.Ordinal);
         }
     }
 }
