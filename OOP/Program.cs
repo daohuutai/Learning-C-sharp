@@ -3,10 +3,6 @@ using Lab02ThucHanh.ThucHanh1;
 
 namespace Lab02ThucHanh
 {
-    // Chuong trinh chinh cho Lab02.
-    // Menu tong duoc thiet ke de sau nay bo sung them Thuc hanh 2
-    // (Lap trinh huong doi tuong) ma khong can sua lai cau truc menu.
-    // Hien tai chi Thuc hanh 1 duoc cai dat day du.
     class Program
     {
         static void Main(string[] args)
@@ -20,7 +16,7 @@ namespace Lab02ThucHanh
                 Console.WriteLine("            LAB02 - MENU CHINH          ");
                 Console.WriteLine("========================================");
                 Console.WriteLine("1. Thuc hanh 1 - Ngon ngu lap trinh C# co ban");
-                Console.WriteLine("2. Thuc hanh 2 - Lap trinh huong doi tuong (chua cai dat)");
+                Console.WriteLine("2. Thuc hanh 2 - Lap trinh huong doi tuong ");
                 Console.WriteLine("0. Thoat chuong trinh");
                 Console.Write("Chon chuc nang: ");
 
@@ -33,7 +29,7 @@ namespace Lab02ThucHanh
                         break;
 
                     case "2":
-                        // Cho lan cap nhat sau: se goi MenuThucHanh2.Hien();
+                        MenuThucHanh2.Hien();
                         Console.WriteLine("Thuc hanh 2 chua duoc cai dat, se bo sung o lan cap nhat sau.");
                         break;
 

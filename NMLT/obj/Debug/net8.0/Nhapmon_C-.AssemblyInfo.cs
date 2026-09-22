@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nhapmon_C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb90f9be6e94d5b598a6df30405ee942a0bd80d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c253d85c49cc5d9d87b4b85a55ed6f3ba2978dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nhapmon_C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nhapmon_C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
