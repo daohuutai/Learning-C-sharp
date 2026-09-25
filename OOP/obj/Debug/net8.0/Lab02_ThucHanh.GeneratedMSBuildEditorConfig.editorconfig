@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab02ThucHanh
-build_property.ProjectDir = c:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\
+build_property.ProjectDir = C:\Users\ASUS TUF\Documents\GitHub\Nhapmon_C-\OOP\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
