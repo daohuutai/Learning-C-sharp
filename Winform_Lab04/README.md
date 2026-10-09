@@ -1,3 +1,5 @@
+Họ và Tên: Đào Hữu tài
+MSSV: 3124411261
 # Lab 04 – Lập trình Windows Forms cơ bản (C# / .NET 8)
 
 Bộ bài thực hành **Thực hành 4c** và **4d** về WinForm, gom vào một ứng dụng duy nhất có menu chọn bài. Bấm vào bài nào thì form của bài đó mở ra; đóng form thì quay lại menu.
