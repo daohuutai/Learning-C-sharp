@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tadao\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\BaiTap\\BaiThucHanhWinForm\\BaiThucHanhWinForm.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\Nhapmon_C-\\Winform_Lab04\\BaiThucHanhWinForm.csproj",
       "projectName": "BaiThucHanhWinForm",
-      "projectPath": "C:\\tadao\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\BaiTap\\BaiThucHanhWinForm\\BaiThucHanhWinForm.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Nhapmon_C-\\Winform_Lab04\\BaiThucHanhWinForm.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\tadao\\Lab04_WinFormBasic_HuynhNhatQuang_3124411245\\BaiTap\\BaiThucHanhWinForm\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Nhapmon_C-\\Winform_Lab04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
