@@ -1,0 +1,10 @@
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\bin\Debug\net48\Lab06.exe.config
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\bin\Debug\net48\Lab06.exe
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\bin\Debug\net48\Lab06.pdb
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.csproj.AssemblyReference.cache
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.AssemblyInfoInputs.cache
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.AssemblyInfo.cs
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.csproj.CoreCompileInputs.cache
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.exe
+D:\học C#\Lab06_CSDL_Basic_HoTen_MaSV\Lab06\obj\Debug\net48\Lab06.pdb
