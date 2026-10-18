@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xALTyWEGTxA=",
+  "dgSpecHash": "oy9/8yHIhrg=",
   "success": true,
-  "projectFilePath": "D:\\học C#\\Lab06_CSDL_Basic_HoTen_MaSV\\Lab06\\Lab06.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\GitHub\\Nhapmon_C-\\CSDL_Lab06\\Lab06\\Lab06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
